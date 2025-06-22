@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains complete FPGA and ASIC implementations for KAN_TDA (Kolmogorov-Arnold Networks with Topological Data Analysis) hardware acceleration. The implementation targets ultra-low power consumption (0.1W) with high throughput processing capabilities.
+This repository contains complete FPGA and ASIC implementations for KAN_TDA (Kolmogorov-Arnold Networks with Topological Data Analysis) hardware acceleration. The implementation targets ultra-low power consumption (0.1W) with high throughput processing capabilities.
 
 ## Directory Structure
 
