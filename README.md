@@ -162,17 +162,5 @@ vsim -do "run_testbench.do"
 - Standard AMBA AXI4 interfaces
 - IEEE 1149.1 JTAG boundary scan
 
-## Manufacturing Specifications
 
-### FPGA Implementation
-- **Development Cost**: $50K (NRE)
-- **Unit Cost**: $2000 (high-volume)
-- **Development Time**: 6 months
-- **Validation**: Commercial tools
-
-### ASIC Implementation
-- **Development Cost**: $2M (NRE)
-- **Unit Cost**: $15 (high-volume)
-- **Development Time**: 18 months
-- **Manufacturing**: TSMC 7nm process
 
